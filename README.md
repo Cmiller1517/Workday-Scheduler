@@ -11,11 +11,11 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 
 ## Installation
 
-Just Click on the Link!
+Just Click on the link below!
 
 ## Usage
 
-
+https://cmiller1517.github.io/Workday-Scheduler/
 
 ## Credits
  
