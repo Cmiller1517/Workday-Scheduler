@@ -11,10 +11,14 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 
 ## Installation
 
+Just Click on the Link!
 
 ## Usage
 
-## Credits
 
+
+## Credits
+ 
+ N.A
 
 ## License 
